@@ -4,8 +4,8 @@ WebScrap is a Node.js and Express project that provides an API for comparing the
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/AdityaRajputRana/WebScrap.git`
-2. Navigate to the project directory: `cd WebScrap`
+1. Clone the repository: `git clone https://github.com/AdityaRajputRana/MedPriceComparison.git`
+2. Navigate to the project directory: `cd MedPriceComparison`
 3. Install the dependencies: `npm install`
 
 ## Usage
